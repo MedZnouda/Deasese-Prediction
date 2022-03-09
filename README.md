@@ -1,4 +1,7 @@
 # Deasese-prediction
 Predict the disease from some symptoms using machine learning.
 
-Run main.py 
+Open screenshot.png to see a screenshot of the interface.
+
+Run main.py
+
